@@ -1,4 +1,4 @@
-### Hi there 👋
+### https://www.codewars.com/users/Soulrage/badges/large
 
 <!--
 **Soulrage/soulrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
